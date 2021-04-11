@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/linked-list-insertion/1#
 class Solution{
   public:
     //Function to insert a node at the beginning of the linked list.
